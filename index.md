@@ -24,7 +24,7 @@ In future updates, we may introduce CloudKit integration to enable data synchron
 
 ## Contact Us
 
-If you have any questions or concerns about this privacy policy, feel free to contact us at [Your Contact Information].
+If you have any questions or concerns about this privacy policy, feel free to contact us at femialiu713@gmail.com.
 
 ---
 
