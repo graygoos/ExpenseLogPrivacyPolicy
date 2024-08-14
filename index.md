@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Welcome to the privacy policy for [Your App Name]. This app is designed to help users manage and log their expenses efficiently.
+Welcome to the privacy policy for ExpenseLog. This app is designed to help users manage and log their expenses efficiently.
 
 ## Data Collection
 
 ### No Data Collection
 
-We want to be clear that **[Your App Name] does not collect, store, or share any personal data**. All information you input into the app remains solely on your device.
+We want to be clear that **ExpenseLog does not collect, store, or share any personal data**. All information you input into the app remains solely on your device.
 
 ## Data Storage
 
