@@ -28,4 +28,4 @@ If you have any questions or concerns about this privacy policy, feel free to co
 
 ---
 
-_Last updated: [Date]_
+_Last updated: 14/08/2024
